@@ -1,1 +1,1 @@
-# College - CSE2003: DSA
+# College - CSE2003: Data Structures and Algorithms
